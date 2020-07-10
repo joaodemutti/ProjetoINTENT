@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProjetoINTENT_implicita</string>
+    <dimen name="topPadLayout">20dp</dimen>
+</resources>
